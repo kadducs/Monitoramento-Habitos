@@ -45,6 +45,8 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 O Habits é um aplicativo que ajuda no monitoramento e controle dos seus hábitos diários.
 
+- [Acesso o projeto](https://kadducs.github.io/Monitoramento-Habitos)
+
 
 ## 🎨 Layout
 
